@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+	<title>MY Image prjkt</title>
+</head>
+<body>
+<h1>This is to test IMG Tag</h1>
+<a href="#destintion">where is Waldo?????????????? </a>
+
+<a href="#des1">show the flower</a>
+
+<a href="#des2">show the door</a>
+
+<a href="#des3">show the horser</a>
+
+<p>Here I'll insert one image!</p>
+
+
+
+<a href="https://google.com/" target="_blank"> Click Here">
+<center><img src="image/a.jpeg"></center>
+</a>
+<p>
+Perception
+The perception of darkness differs from the mere absence of light due to the effects of after images on perception. In perceiving, the eye is active, and the part of the retina that is unstimulated produces a complementary afterimage.[2]
+
+Physics
+In terms of physics, an object is said to be dark when it absorbs photons, causing it to appear dim compared to other objects. For example, matte black paint does not reflect much visible light and appears dark, whereas white paint reflects lots of light and appears bright.[3] For more information see color. An object may appear dark, but it may be bright at a frequency that humans cannot perceive.
+
+A dark area has limited light sources, making things hard to see. Exposure to alternating light and darkness (night and day) has caused several evolutionary adaptations to darkness. When a vertebrate, like a human, enters a dark area, its pupils dilate, allowing more light to enter the eye and improving night vision. Also, the light detecting cells in the human eye (rods and cones) will regenerate more unbleached rhodopsin when adapting to darkness.
+
+One scientific measure of darkness is the Bortle Dark-Sky Scale, which indicates the night sky's and stars' brightness at a particular location, and the observability of celestial objects at that location. (See also: Sky brightness)
+
+Technical
+The color of a point, on a standard 24-bit computer display, is defined by three RGB (red, green, blue) values, each ranging from 0-255. When the red, green, and blue components of a pixel are fully illuminated (255,255,255), the pixel appears white; when all three components are unilluminated (0,0,0), the pixel appears black.
+
+Cultural
+Artistic
+
+Caravaggio's The Calling of St Matthew uses darkness for its chiaroscuro effects.
+Main article: Tints and shades
+
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This section does not cite any sources. (January 2010)
+This section possibly contains original research. (November 2014)
+Artists use darkness to emphasize and contrast the presence of light. Darkness can be used as a counterpoint to areas of lightness to create leading lines and voids. Such shapes draw the eye around areas of the painting. Shadows add depth and perspective to a painting. See chiaroscuro for a discussion of the uses of such contrasts in visual media.
+
+Color paints are mixed together to create darkness, because each color absorbs certain frequencies of light. Theoretically, mixing together the three primary colors, or the three secondary colors, will absorb all visible light and create black. In practice it is difficult to prevent the mixture from taking on a brown tint.
+
+Literature
+
+Separation of light and darkness on the first day of creation, from the Sistine Chapel ceiling by Michelangelo
+Further information: Light and darkness
+As a poetic term in the Western world, darkness is used to connote the presence of shadows, evil, and foreboding, or in modern parlance, to connote that a story is grim, heavy, and/or depressing.
+
+Religion
+The first creation narrative in Christianity begins with darkness, into which is introduced the creation of light, and the separation of this light from the darkness (as distinct from the creation of the sun and moon on the fourth day of creation). Thus, although both light and darkness are included in the comprehensive works of the almighty God—darkness was considered "the second to last plague" (Exodus 10:21), and the location of "weeping and gnashing of teeth" (Matthew 8:12).
+
+The Qur'an has been interpreted to say that those who transgress the bounds of what is right are doomed to "burning despair and ice-cold darkness" (Nab 78.25).[4]
+
+Erebus was a primordial deity in Greek mythology, representing the personification of darkness.
+
+Philosophy
+In Chinese philosophy, Yin is the complementary feminine part of the Taijitu and is represented by a dark lobe.
+
+Poetry
+The use of darkness as a rhetorical device has a long-standing tradition. Shakespeare, working in the 16th and 17th centuries, made a character called the "prince of darkness" (King Lear: III, iv) and gave darkness jaws with which to devour love. (A Midsummer Night's Dream: I, i)[5] Chaucer, a 14th-century Middle English writer of The Canterbury Tales, wrote that knights must cast away the "workes of darkness".[6] In The Divine Comedy, Dante described hell as "solid darkness stain'd".[7]
+
+Language
+In Old English there were three words that could mean darkness: heolstor, genip, and sceadu.[8] Heolstor also meant "hiding-place" and became holster. Genip meant "mist" and fell out of use like many strong verbs. It is however still used in the Dutch saying "in het geniep" which means secretly. Sceadu meant "shadow" and remained in use. The word dark eventually evolved from the word deorc.[9]</p>
+<img id="destination" src="image/Waldo.jpg">
+
+<a href="https://gmail.com">
+   <img id="des1" src="image/flower.jpg">
+   </a>
+
+<a href="https://yahoo.com.com">
+   <img id="des2" src="image/door.jpg">
+   </a>
+
+<a href="https://onlineitd.com">
+   <img id="des3" src="image/horse.jpg">
+   </a>
+
+
+
+</body>   
+</html>
