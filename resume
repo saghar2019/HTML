@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<br>
+	<hr>
+	<h2>My name</h2>
+	<p>s.z</p>
+
+
+	
+	<br>
+	<hr>
+	<h2>Object<h2>
+		<p> </p>
+
+		<br>
+		<hr>
+
+
+
+		<h2>Work Xp</h2>
+	<ol>
+		<li>microsft</li>
+		<li>EA</li>
+		<li>Epic</li>
+		<li>ubisoft</li>
+	</ol>
+
+
+	<br>
+	<hr>
+	<h2>Study</h2>
+	<ul>
+		<li>Gradhuated in Agriculthural</li>
+	</ul>
+
+	
+
+</body>
+</html>
