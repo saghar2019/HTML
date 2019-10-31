@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form method="post"action="mailto:saygin.guven@itdcanada.ca" enctype="tex/plain">
+		full name<br>
+		<input type="tex" name="fullName" placeholder="john doe"><br>
+		Email<br>
+		<input type="email" name="Email" placeholder="john doe@gmail.com"><br>
+		<input type="tel" name="phonenumber" placeholder="(604) 123 45 67"><br>
+		<input type="tex" name="address" placeholder="475 Granvill, Vancouver"><br>
+		Message<br>
+		<textarea row="5" cols="60" name="comment" placeholder="Enter text here..."></textarea><br>
+		<input type="submit" value="submit">
+	</form>
+	<br>
+	<hr>
+
+	<h2>Attributes</h2>
+	<form>
+		<input type="text" name=",,," autofoucus><br>
+		<input type="text" name=",,," autocomplate="off"><br>
+		<input type="text" name=",,," style="direction:RTL"><br>
+		<input type="number" value="150" disabled><br>
+		<input type="button" formtarget="_blank" value="submit"><br>
+		<input style="height;25px; width:50%;"><br>
+	</form>
+	<br>
+	<hr>
+
+
+
+	<h2>Data list</h2>
+
+	<input list="browsers" name="browser">
+	<datalist id="browsers">
+	<option value="Internet Explorer">
+	<option value="Firefox">
+	<option value="Chorome">
+	<option value="Opera">
+	<option value="Safari">	
+	</datalist>
+	<input type="submit">
+
+	<br>
+	<hr>
+
+
+	<h2>Login</h2>
+	      <form>
+	      	<div>
+	      		<label for="user_name"> User Name:</label>
+	      		<input type="text" name="user_name">
+	      	</div>
+	      	<div>
+	      	<label for="user_name"> PassWord:</label>
+	      		<input type="text" name="password">
+	      	
+	      	</div>
+	      </form>
+	      <br>
+	      <hr>
+	      <h2>Checkbox 1</h2>
+	      <input type="checkbox" name="html5" checked> HTML 5
+	      <input type="checkbox" name="css3" checked> css3
+	      <input type="checkbox" name="javascript"checked> javascript
+	      <input type="checkbox" name="Bootsrapt" checked> Bootsrapt
+
+
+	      <br>
+	      <hr>
+	      <h2>Radio</h2>
+	      <form>
+	      	<input type="radio" name="male"> Male
+	      	<input type="radio" name="female"> female
+	      	<input type="radio" name="Rather not say"> Rather not say
+
+
+</html>
